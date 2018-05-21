@@ -68,13 +68,10 @@
 
           <div class="row">
 
-            <div class="col-md-2">
-            </div>
-
-            <div class="col-md-8">
+            <div class="col-md-12">
               <form autocomplete="off" action="/action_page.php">
 
-                <div class="input-group mb-3 autocomplete">
+                <div class="autocomplete">
                   <input id="myInput" type="text" class="form-control" placeholder="Boardname" aria-label="Nome do Jogo" aria-describedby="basic-addon2">
                   <div class="input-group-append">
                     <button class="btn btn-outline-secondary" type="button">Buscar</button>
@@ -83,10 +80,6 @@
 
               </form>
             </div>
-
-            <div class="col-md-2">
-            </div>
-
           </div>
 
         </div>
