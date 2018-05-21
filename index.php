@@ -68,31 +68,31 @@
         <div class="container">
 
           <div class="row">
+            <div class="col-md-12">
 
-            <div class="col-md-4">
+            </div>
+          </div>
+
+          <div class="row">
+
+            <div class="col-md-2">
+              <img src="https://assets.xtechcommerce.com/uploads/logos/b00db91d9b740987e2fb4219049d46ca.png" class="img-fluid" alt="Responsive image">
             </div>
 
-            <div class="col-md-4">
-              <div class="card mb-4 box-shadow">
-                <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
-                <div class="card-body">
-                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                  <div class="d-flex justify-content-between align-items-center">
-                    <div class="btn-group">
-                      <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                      <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-                    </div>
-                    <small class="text-muted">9 mins</small>
-                  </div>
+            <div class="col-md-8">
+              <div class="input-group mb-3">
+                <input type="text" class="form-control" placeholder="Recipient's username" aria-label="Recipient's username" aria-describedby="basic-addon2">
+                <div class="input-group-append">
+                  <button class="btn btn-outline-secondary" type="button">Button</button>
                 </div>
               </div>
             </div>
 
-            <div class="col-md-4">
+            <div class="col-md-2">
             </div>
 
           </div>
-          
+
         </div>
       </div>
 
