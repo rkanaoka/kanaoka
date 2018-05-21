@@ -42,7 +42,7 @@
         <div class="container d-flex justify-content-between">
           <a href="#" class="navbar-brand d-flex align-items-center">
             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-2"><path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z"></path><circle cx="12" cy="13" r="4"></circle></svg>
-            <strong>Album</strong>
+            <strong>Bodogami Tools</strong>
           </a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -54,16 +54,6 @@
     <main role="main">
 
       <section class="jumbotron text-center">
-        <div class="container">
-          <p class="lead text-muted">Something short and leading about the collection below—its contents, the creator, etc. Make it short and sweet, but not too short so folks don't simply skip over it entirely.</p>
-          <p>
-            <a href="#" class="btn btn-primary my-2">Main call to action</a>
-            <a href="#" class="btn btn-secondary my-2">Secondary action</a>
-          </p>
-        </div>
-      </section>
-
-      <div class="album py-5 bg-light">
         <div class="container">
 
           <div class="row">
@@ -95,17 +85,25 @@
           </div>
 
         </div>
-      </div>
+      </section>
 
     </main>
 
     <footer class="text-muted">
       <div class="container">
-        <p class="float-right">
-          <a href="#">Back to top</a>
-        </p>
-        <p>Album example is &copy; Bootstrap, but please download and customize it for yourself!</p>
-        <p>New to Bootstrap? <a href="../../">Visit the homepage</a> or read our <a href="../../getting-started/">getting started guide</a>.</p>
+        <div class="col-xs-12 text-center">                         
+                                      <p><small>
+                                                      <strong>CNPJ:</strong> 26.391.907/0001-12<br>
+                                                                                    <strong>Razão Social:</strong> BODOGAMI JOGOS LTDA - ME<br>
+                                                                                    <strong>Endereço:</strong>
+                  Rua Galvão Bueno, 499
+                  (Não é loja física) -
+                  Liberdade,
+                  São Paulo -
+                  SP
+                                              </small></p>
+                                      <p><small>&copy; 2018 BODOGAMI. Todos os direitos reservados.</small></p>
+        </div>
       </div>
     </footer>
 
