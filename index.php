@@ -70,11 +70,11 @@
 
               <form autocomplete="off" action="/action_page.php">
 
-                <div class="input-group mb-3 autocomplete">
+                <div class="autocomplete">
                   <div class="col-md-10">
                     <input id="myInput" type="text" class="form-control" placeholder="Boardname" aria-label="Nome do Jogo" aria-describedby="basic-addon2">
                   </div>
-                  <div class="col-md-2 input-group-append">
+                  <div class="col-md-2">
                     <button class="btn btn-outline-secondary" type="button">Buscar</button>
                   </div>
                 </div>
