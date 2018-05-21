@@ -68,7 +68,7 @@
 
           <div class="row">
 
-              <form autocomplete="off" action="/action_page.php">
+              <form class="autocompleteform" autocomplete="off" action="/action_page.php">
 
                 <div class="autocomplete">
                   <div class="col-md-10">
