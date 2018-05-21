@@ -55,7 +55,6 @@
 
       <section class="jumbotron text-center">
         <div class="container">
-          <h1 class="jumbotron-heading">Album example</h1>
           <p class="lead text-muted">Something short and leading about the collection below—its contents, the creator, etc. Make it short and sweet, but not too short so folks don't simply skip over it entirely.</p>
           <p>
             <a href="#" class="btn btn-primary my-2">Main call to action</a>
@@ -69,14 +68,16 @@
 
           <div class="row">
             <div class="col-md-12">
-
+              <img src="https://assets.xtechcommerce.com/uploads/logos/b00db91d9b740987e2fb4219049d46ca.png" class="img-fluid" alt="Responsive image">
+            </div>
+            <div class="col-md-12">
+              <h1 class="jumbotron-heading">Bodo-Buscador de Sleeves</h1>
             </div>
           </div>
 
           <div class="row">
 
             <div class="col-md-2">
-              <img src="https://assets.xtechcommerce.com/uploads/logos/b00db91d9b740987e2fb4219049d46ca.png" class="img-fluid" alt="Responsive image">
             </div>
 
             <div class="col-md-8">
